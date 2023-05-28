@@ -2,7 +2,7 @@
 assignment 3 of progmramming paradigms
 
 
-## კcompilation
+## compilation
 ```sh
 make
 ```
@@ -23,4 +23,4 @@ make data
 ./vector-test | diff sample-output-vector.txt -
 ./hashset-test | diff sample-output-hashset.txt -
 ```
-s
+
